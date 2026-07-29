@@ -50,7 +50,7 @@ scikit-learn (StandardScaler, LabelEncoder, train_test_split, PCA, metrics)
 Pandas / NumPy
 Matplotlib / Seaborn
 # 📈 Future Improvements
-Try alternate PCA component counts to find the accuracy/dimensionality sweet spot
-Add dropout / batch normalization to reduce overfitting
-Experiment with deeper architectures or learning-rate scheduling
-Add cross-validation for more robust accuracy estimates
+Try alternate PCA component counts to find the accuracy/dimensionality sweet spot.
+Add dropout / batch normalization to reduce overfitting, Experiment with deeper architectures or learning-rate scheduling.
+Add cross-validation for more robust accuracy estimates.
+
